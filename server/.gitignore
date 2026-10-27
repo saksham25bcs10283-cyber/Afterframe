@@ -1,0 +1,9 @@
+# Server Environment Files & Secrets
+.env
+.env.*
+*.env
+!.env.example
+node_modules/
+logs/
+*.log
+.DS_Store
